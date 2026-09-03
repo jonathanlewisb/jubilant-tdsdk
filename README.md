@@ -59,7 +59,6 @@ ORDER BY time DESC
 
 ```
 .
-├── index.html                              # the whole test page + SDK setup
-├── .github/workflows/github-actions-demo.yml  # GitHub Pages deploy
-└── .claude/                                # local Claude Code settings
+├── index.html                                 # the whole test page + SDK setup
+└── .github/workflows/github-actions-demo.yml  # GitHub Pages deploy
 ```
